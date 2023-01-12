@@ -1,0 +1,100 @@
+
+.main{
+    width: 90%;
+    margin: auto;
+}
+.carousel-item{
+    width: 90%;
+    margin-left: 5%;
+    background-color: blue;
+}
+.carousel-item img{
+    width: 50%;
+    margin: auto;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+/* title */
+.carousel-inner {
+    margin-top: 10px;
+}
+.title{
+    color: crimson;
+    font-size: 20px;
+    padding: 0px 30px ;
+}
+.dis{
+  font-size: 18px;
+  padding: 0px 20px;
+}
+.slide1{
+    width: 100%;
+
+}
+.slide1 img{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+/*  */
+.slide2{
+    width: 100%;
+}
+.slide2 img{
+    width: 80%;
+    margin-left: 10%;
+}
+.slide3{
+    width: 100%;
+}
+.slide3 img{
+    width: 80%;
+    margin-left: 10%;
+}
+.foot-dis{
+    text-align: center;
+}
+/* poin */
+.poin{
+    margin: 30px;
+}
+ .row{
+    width: 100%;
+    display: flex;
+}
+.row img{
+    width: 50%;
+}
+.col-2{
+    width: 20%;
+    margin-top: 20px;
+    margin: auto;
+    padding: 20px;
+}
+.col-md-3{
+    width: 30%;
+    padding: 20px;
+}
+.col-md-4{
+    width: 20%;
+    padding: 20px;
+}
+.col-md-5{
+    width: 20%; 
+    padding: 20px;
+} 
+.logo{
+    width: 20%;
+}
+.logo img{
+    width: 50%;
+}
+.icon{
+    width: 20%;
+    display: flex;
+}
+.icon img{
+    width: 50%;
+    padding: 10px 4px ;
+}
